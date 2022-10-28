@@ -1,0 +1,15 @@
+{
+  "name": "jhuta/php-mvc-core",
+  "authors": [
+    {
+      "name": "JACKo",
+      "email": "jacek.huta@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "jhuta\\phpmvccore\\": "."
+    }
+  },
+  "require": {}
+}
